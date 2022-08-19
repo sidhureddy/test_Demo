@@ -1,0 +1,38 @@
+
+		Component							Packaging type			Generated
+
+		phoenix-event-test     				-			            no target
+		phoenix-gadget-container 			war						war
+		phoenic-load
+			phoenix-load-analysis      	 	jar                     jar
+			phoenix-load-base				jar						jar
+			phoenix-load-monitor        	jar						jar		
+			phoenix-load-tests				pom						no target
+			phoenix-load-hyperdrive     	no pom					no target
+				
+		phoenix-openfire-extensio           -			            jar
+		phoenix-test-client					pom						zip
+		phoenix-test-common					jar						jar
+		phoenix-test-server					pom						no target
+		phoenix-ui-functional-tests         -						no target
+
+		phoenic-webapp
+			phoenix-rest-api				jar						jar
+			phoenix-webapp              	war						war
+
+		pipeline-scripts                    no pom					-
+		reverse-proxy-finesse-installer		pom						zip
+		reverse-proxy-installer      		pom						zip
+		reverse-proxy-openresty-configs		pom						zip
+		reverse-proxy-openresty-container   pom						no target
+		reverse-proxy-os-configs			pom						zip
+		reverse-proxy-sdk					jar						jar
+		rmi-provider						jar						jar
+		ssh-utils							-						jar
+		test-info							jar						jar
+		ui-build-tools						-						-	
+		vos-automation						pom						zip
+		webproxy-util						jar						jar
+		work-dispatcher						-						jar
+
+

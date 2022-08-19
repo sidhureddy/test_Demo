@@ -1,0 +1,19 @@
+Vcenter ip :https://10.78.95.86/
+Password : C1sco123=
+username : administrator@vsphere.local
+
+-----App acess
+JIRA 	   		  -  https://jira-eng-sjc12.cisco.com/jira/secure/Dashboard.jspa
+TestBeds  		  -  https://confluence-eng-sjc12.cisco.com/conf/pages/viewpage.action?spaceKey=FIN&title=Test+Metrics
+
+Incident Ticket   -   https://cisco.service-now.com/sp?id=index
+IDS Transition    -   https://confluence-eng-sjc12.cisco.com/conf/display/FIN/IdS+Knowledge+Transfer
+LAB IP management -   http://10.78.94.35/ipms/
+AST setup 		  -	  https://confluence-eng-sjc12.cisco.com/conf/pages/viewpage.action?spaceKey=FIN&title=Bangalore+AST+Setup
+ESXI Issue		  -   https://toolbox.cisco.com/
+
+GIT               -   https://github4-chn.cisco.com/ccbu-finesse/finesse
+Test Beds		  -   https://confluence-eng-sjc12.cisco.com/conf/pages/viewpage.action?spaceKey=FIN&title=Test+Metrics
+AgileGadi         -   https://agilegaadi.cisco.com/jira/index.php
+
+Jenkins build war - mvn clean install -pl com.cisco.ccbu.phoenix:phoenix-test-server -am -DskipTests -Pfinesse.build.test.jdk8
