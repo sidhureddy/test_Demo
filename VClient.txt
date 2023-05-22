@@ -1,3 +1,4 @@
+
 Vcenter ip :https://10.78.95.86/
 Password : C1sco123=
 username : administrator@vsphere.local
@@ -16,4 +17,7 @@ GIT               -   https://github4-chn.cisco.com/ccbu-finesse/finesse
 Test Beds		  -   https://confluence-eng-sjc12.cisco.com/conf/pages/viewpage.action?spaceKey=FIN&title=Test+Metrics
 AgileGadi         -   https://agilegaadi.cisco.com/jira/index.php
 
+#Hi
+#hello
+#hello3
 Jenkins build war - mvn clean install -pl com.cisco.ccbu.phoenix:phoenix-test-server -am -DskipTests -Pfinesse.build.test.jdk8
